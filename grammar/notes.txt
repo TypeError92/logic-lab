@@ -1,0 +1,2 @@
+- Should we use standard BNF for our CFGs, or might there be a modification that allows for the use of RegEx in non-recursive production rules?
+- I guess that the smartest way of parsing our CFGs is to turn them into PDAs?
